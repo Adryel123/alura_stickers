@@ -1,6 +1,10 @@
 # vscode configuration
 .vscode/
 
+# input/output images
+entrada/**
+saida/**
+
 # Compiled class file
 *.class
 
